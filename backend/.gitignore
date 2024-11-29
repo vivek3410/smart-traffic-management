@@ -1,0 +1,9 @@
+/venv
+.env
+
+/output
+/uploaded_videos
+/output_frames
+
+/yolo-coco
+.idea
